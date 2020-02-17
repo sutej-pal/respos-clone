@@ -1,0 +1,10 @@
+# ide files
+.idea
+
+# all repositories files
+repos
+
+package-lock.json
+
+# npm modules
+node_modules
